@@ -18,6 +18,6 @@
 ## 管理后台
 ![Image text](./img/a1.png)
 ![Image text](./img/a2.png)
-![Image text](./img/a3.png)
+![Image text](./img/a3.jpg)
 ![Image text](./img/a4.png)
 ![Image text](./img/a5.png)
